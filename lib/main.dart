@@ -254,3 +254,4 @@ class _EmailPasswordFormState extends State<EmailPasswordForm> {
     );
   }
 }
+
